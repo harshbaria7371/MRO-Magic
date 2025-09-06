@@ -1,0 +1,18 @@
+{
+  "test": {
+    "airlines": ["FI", "VT", "LH", "AF", "KL", "9H", "B", "NZ"],
+    "aircraft_Types": ["A320", "A380", "787", "747", "A330", "A220"],
+    "registrations_by_day": {
+      "monday": ["41SH", "PPM", "LWS", "DBX", "QCP"],
+      "tuesday": ["VFAN", "FIVS", "LRD", "EAV",  "BAH"],
+      "wednesday": ["HUVA", "TXH", "EDB", "XLEG", "ADD"],
+      "thursday": ["LRB", "HRBB", "VSRB", "ANRC", "GSQL"],
+      "friday": ["STBD", "GKUH", "DUZ", "PPM", "832MH"],
+      "saturday": ["780AN", "78009", "793UA", "FGHZ", "FRAM"],
+      "sunday": ["ZBJB", "GHPY", "EDM", "AIKK", "TFL"],
+      "overnight": ["409DX", "641UA", "NXJ", "EXY", "AKJC"]
+    },
+    "stations": ["HEL", "AMD", "LHR", "FRA", "AMS"],
+    "stands": ["100", "105", "110", "115", "120"]
+  }
+}
