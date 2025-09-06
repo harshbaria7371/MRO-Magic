@@ -1,0 +1,50 @@
+[
+  {
+    "workPackageId": "52f5136f-fbe1-4892-8791-adbe85a8164e",
+    "workPackageName": "41SH/B-202509070714-185",
+    "workPackageBarcode": "V1BCYXJjb2Rl-20250907",
+    "station": "HEL",
+    "workPackageStatus": "PLANNED",
+    "workPackageArea": "ENG 1",
+    "maintenanceType": "Normal",
+    "maintenanceDate": "2025-09-07",
+    "shortDescription": "Torque Prop Blade Retainers",
+    "aircraft": "41SH",
+    "aircraftType": "A330",
+    "aircraftSubType": "E",
+    "expectedStartDateTime": "2025-09-07T07:14:00.000+05:30",
+    "expectedEndDateTime": "2025-09-07T13:57:00.000+05:30",
+    "workOrders": [
+      {
+        "workorderId": "c8f20115-0bdb-44d8-89c5-8a1060e1c020",
+        "workOrderName": "Battery Recharge",
+        "workOrderBarcode": "V09CYXJjb2Rl-20250907_839",
+        "workOrderDueDate": "2025-09-07T13:57:00.000+05:30",
+        "workOrderStatus": "OPEN",
+        "workOrderArea": "ENG 2",
+        "workOrderPriority": 1,
+        "workOrderSequence": 2,
+        "scopeRequirements": [
+          {
+            "total_minutes": 109,
+            "quantity": 1,
+            "scopeValue": "BORO",
+            "index": 1
+          },
+          {
+            "total_minutes": 258,
+            "quantity": 1,
+            "skillValue": "B1",
+            "index": 2
+          },
+          {
+            "total_minutes": 165,
+            "quantity": 1,
+            "scopeValue": "RUN UP IDLE",
+            "index": 3
+          }
+        ]
+      }
+    ]
+  }
+]

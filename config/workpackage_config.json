@@ -1,0 +1,24 @@
+{
+  "test": {
+    "scope_values": ["MECH", "AVIOMECH", "SUPERVISOR", "SHEETMETAL", "PAINT", "RUN UP IDLE", "ENGWASH", "CS", "COMPOSITE", "BORO"],
+    "skill_values": ["B1", "B2", "CB1", "CB2"],
+    "wp_names": ["L", "H", "SC", "B"],
+    "aircraft_subtypes": ["A", "B"],
+    "work_order_area": ["ENG 1", "ENG 2", "FUSELAGE", "WING", "AVIONIC"],
+    "work_package_area": ["HANGAR 1", "HANGAR 2", "HANGAR 3"],
+    "work_order_names": [
+      "APU Ops & Cabin Pressure Test",
+      "Engine Maintenance",
+      "Smoke Detector Test",
+      "A-Check Inspection",
+      "Hinge Inspection",
+      "Battery Recharge",
+      "Torque Prop Blade Retainers",
+      "Hydraulic Reservoir Service",
+      "Rudder Inspection",
+      "Wing, Flight Deck, Engine Inspection",
+      "Check and Secure Cargo Compartment Netting",
+      "Inspect Auxiliary fuel pump system"
+    ]
+  }
+}
